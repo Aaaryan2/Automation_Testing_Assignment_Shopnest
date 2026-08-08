@@ -21,7 +21,8 @@ See [`DECISIONS.md`](./DECISIONS.md) for the reasoning behind these choices.
 
 ```bash
 git clone <your-repo-url>
-cd Automation-Testing-Assignment
+cd Automation_Testing_Assignment_Shopnest
+/Automation-Testing-Assignment-main
 npm install
 npx playwright install --with-deps chromium
 ```
