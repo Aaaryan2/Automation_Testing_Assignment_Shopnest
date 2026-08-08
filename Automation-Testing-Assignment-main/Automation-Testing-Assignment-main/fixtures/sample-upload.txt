@@ -1,2 +1,0 @@
-This is a sample fixture file used by the ShopNest UI automation suite
-to exercise the file upload flow end to end.
